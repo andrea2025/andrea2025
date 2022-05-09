@@ -1,10 +1,5 @@
 ### Hi there,I'm Chiama Ogechi
 
-
-
-Hi there, I'm Michael Sanni 
-Linkedin Badge Website Badge Twitter Badge
-
 Glad to see you here!   
 I'm an Android developer who is constantly developing, implementing, and adopting new technologies in order to maximize development efficiency and produce innovative applications.
 Always ready to build and learn.
