@@ -3,7 +3,6 @@
 Glad to see you here!   
 I'm an Android developer who is constantly developing, implementing, and adopting new technologies in order to maximize development efficiency and produce innovative applications.
 Always ready to build and learn.
-GIF
 
 <div id="badges">
   <a href="http://linkedin.com/in/ogechi-chiama/">
@@ -18,9 +17,13 @@ GIF
 Talking about Personal Stuffs:
 
 👨🏻‍💻 I’m currently working on something cool;
+
 💬 Ask me about anything, I am happy to help;
-📝 I regulary write articles on hashnode;
+
+📝 Exploring Technical writing check me on  <a href="https://blog.chiamaogechi.com/"><p> hashnode</p></a>;
+
 📫 How to reach me: chiamaoge@gmail.com;
+
 📝 Resume.
 
 📊 This Week I Spent My Time On:
