@@ -5,6 +5,16 @@ I'm an Android developer who is constantly developing, implementing, and adoptin
 Always ready to build and learn.
 GIF
 
+<div id="badges">
+  <a href="http://linkedin.com/in/ogechi-chiama/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+  <a href="https://twitter.com/ogechi_chiama">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 Talking about Personal Stuffs:
 
 👨🏻‍💻 I’m currently working on something cool;
